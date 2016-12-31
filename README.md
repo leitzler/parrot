@@ -2,7 +2,7 @@
 This is a Slack bot that adds group notifications using private messages. A quick hack for demo purpose only.
 
 ## Running
-Set the `"admin"` field in config.json to your Slack user ID (e.g. `"U01ABCDEF9"`).
+Copy config_template.json to config.json and set the `"admin"` field to your Slack user ID (e.g. `"U01ABCDEF9"`).
 
 Get yourself a Slack bot API token, and set the environment variable `PARROT_SLACK_TOKEN`:
 ```

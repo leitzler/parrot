@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/leitzler/parrot)](https://goreportcard.com/report/github.com/leitzler/parrot)
+
 # parrot
 This is a Slack bot that adds group notifications using private messages. A quick hack for demo purpose only.
 

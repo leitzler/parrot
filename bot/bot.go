@@ -3,9 +3,10 @@ package bot
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/nlopes/slack"
 	"log"
 	"strings"
+
+	"github.com/nlopes/slack"
 )
 
 const configFile string = "config.json"

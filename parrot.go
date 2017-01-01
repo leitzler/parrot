@@ -1,10 +1,11 @@
 package main
 
 import (
-	"github.com/leitzler/parrot/bot"
-	"github.com/nlopes/slack"
 	"log"
 	"os"
+
+	"github.com/leitzler/parrot/bot"
+	"github.com/nlopes/slack"
 )
 
 func main() {
